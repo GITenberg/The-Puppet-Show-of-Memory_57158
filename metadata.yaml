@@ -1,0 +1,35 @@
+_repo: The-Puppet-Show-of-Memory_57158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2018-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel writers -- Great Britain -- Biography'
+- !lcsh 'War correspondents -- Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- !lcsh 'Baring, Maurice, 1874-1945'
+- GITenberg
+tableOfContents: 'The nursery -- The nursery and the schoolroom -- Membland -- School
+  -- Eton -- Germany -- Italy, Cambridge, Germany, London -- Oxford and Germany --
+  Paris -- Copenhagen -- Sarah Bernhardt -- Rome -- Russia and Manchuria -- Battles
+  -- London, Manchuria, Russia -- Russia: the beginning of the revolution -- St. Petersburg
+  -- Travel in Russia -- South Russia, journalism, London -- Constantinople (1909)
+  -- The Balkan War, 1912 -- Constantinople once more (1912) -- The fascination of
+  Russia.'
+title: The Puppet Show of Memory
+url: http://www.gutenberg.org/ebooks/57158
